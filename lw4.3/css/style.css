@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    padding: 0 20px;
+}
+.title {
+    text-align: center;
+    color: green;
+}
+.about {
+}
+.about__item {
+}
+.about__item-name {
+    padding: 10px 0;
+
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.about__item-text {
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+.text {
+    margin-left: 40px;
+}
+.title-info {
+    color: red;
+    font-size: 21px;
+}
+.about-list, ul {
+    list-style: disc;
+}
+.about-list--b {
+    font-weight: bold;
+    color: green;
+}

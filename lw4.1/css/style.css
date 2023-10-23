@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 10px 15px;
+}
+
+.title {
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+    text-align: center;
+    color: green;
+}
+.sub_info {
+    margin-bottom: 25px;
+}
+.item {
+    font-weight: bold;
+}
+.item__info {
+    margin-left: 35px;
+}
+.item__info:not(:last-child) {
+    margin-bottom: 10px;
+}
+.sub__title {
+}

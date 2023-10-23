@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+.sub__title {
+}
+.number-list {
+    color: green;
+    font-size: 18px;
+}
+.number-list__item {
+}
+.marker-list {
+    color: #000;
+}
+.marker-list__item {
+}
+.text {
+    font-size: 20px;
+    font-weight: bold;
+}
+.text--red {
+    color: red;
+}
